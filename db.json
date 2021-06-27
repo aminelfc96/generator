@@ -1,0 +1,5 @@
+{
+	"level":{"L3":{"MATIERE1":"PROF1","MATIERE2":"PROF2","MATIERE3":"PROF3","MATIERE4":"PROF4"}
+	},
+	"state":{"PROF1":1,"PROF2":1,"PROF3":1,"PROF4":0}
+}
